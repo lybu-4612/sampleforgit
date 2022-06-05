@@ -2,4 +2,8 @@ first commit done for git project
 
 hai just meet me tomorrow
 
+<<<<<<< HEAD
 its for conflict in master
+=======
+for conflict merge
+>>>>>>> feature
